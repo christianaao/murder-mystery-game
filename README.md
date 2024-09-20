@@ -4,7 +4,7 @@
 
 This project is a text-based story game, and was developed in a team led by me as Team Leader.
 
-In this game, you are a Detective, and your mission is to uncover the mysteries behind a murder. You must travel through time and make game-breaking decisions on what actions to take. As you progress through the game, you will collect evidence and gain stats, all of which will be of importance for the game's final scene. Make sure that you take your time to read through and enjoy the suspenseful and engaging storline.
+In this game, you are playing the role of the Detective, and your mission is to uncover the mysteries behind a murder. You must travel through time and make game-breaking decisions on what actions to take. As you progress through the game, you will collect evidence and gain stats, all of which will be of importance for the game's final scene. Make sure that you take your time to read through and enjoy the suspenseful and engaging storline.
 
 ## Project Links
 
