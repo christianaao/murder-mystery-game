@@ -12,7 +12,7 @@ Backend Repo: https://github.com/christianaao/text-game-project/
 
 ## Features of this Project
 
-This project was written in Python. There is no frontend or API server for this project. _(but maybe in the future)_
+This project was written in Python. There is no frontend or API server for this project _(but maybe in the future)_.
 
 This project was created as part of a team project, where I led its development as Team Leader. This project was created through project management, plamnning and Agile workflow.
 
