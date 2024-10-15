@@ -24,7 +24,7 @@ This project was created as part of a team project, where I led its development 
 
 2. In your terminal, locate the directory you would like to save the code to and type `git clone` followed by the cloned/forked repo link.
 
-3. To run the code, type `python3 TTMM-PYTHON-GAME.py` in the terminal.
+3. To run the game, type `python3 TTMM-PYTHON-GAME.py` in the terminal.
 
 ☺ I hope you enjoy playing the game ☺
 
