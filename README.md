@@ -31,7 +31,3 @@ This project was created as part of a team project, where I led its development 
 ## Software Requirements
 
 **Python version**: Python3 version Python 3.10.12 or higher required
-
----
-
-This portfolio project was created as part of a Short Digital Skills Course in Software Developmentt provided by [Codenation](https://wearecodenation.com/)
